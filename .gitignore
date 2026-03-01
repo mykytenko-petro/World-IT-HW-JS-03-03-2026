@@ -1,0 +1,9 @@
+# python
+__pycache__/
+venv/
+
+# django
+db.sqlite3
+
+# editors
+.vscode/
